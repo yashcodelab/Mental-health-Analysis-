@@ -1,9 +1,9 @@
-# Mental-health-Analysis-
+# Mental-health-Analysis
 📌 Overview
-This project was part of a Kaggle hackathon focused on analyzing mental health data. The goal was to develop a machine learning model that predicts mental health conditions based on survey responses, demographics, and other relevant factors.
+This project was part of a Kaggle hackathon on analyzing mental health data. The goal was to develop a machine learning model that predicts mental health conditions based on survey responses, demographics, and other relevant factors.
 
 📂 Dataset
-The dataset includes responses related to mental health awareness, past experiences, workplace support, and demographic details. Key features include:
+The dataset includes responses to mental health awareness, past experiences, workplace support, and demographic details. Key features include:
 
 Age, Gender 🧑‍🤝‍🧑
 
@@ -44,8 +44,6 @@ Optimized model performance using GridSearchCV and feature selection.
 
 4️⃣ Evaluation
 Used accuracy, F1-score, and ROC-AUC to compare models.
-
-Achieved [insert best model performance] with [best model name].
 
 🔍 Key Insights
 ✔️ Workplace support significantly impacts mental health conditions.
